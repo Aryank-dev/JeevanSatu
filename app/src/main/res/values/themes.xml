@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.OffGridRescue" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.OffgridRescueV2" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.OffgridRescueDone8" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.JeevanSetu" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

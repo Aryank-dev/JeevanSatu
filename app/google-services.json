@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359071651013",
+    "project_id": "jeevansetu-8b84b",
+    "storage_bucket": "jeevansetu-8b84b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359071651013:android:d48b3479987b46a89d8cac",
+        "android_client_info": {
+          "package_name": "com.offgridrescue.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdjfyvhKD4Kb3fANnh6qhuwGLX-_cV7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
